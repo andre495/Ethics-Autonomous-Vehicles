@@ -1,0 +1,18 @@
+Person with pram,-118
+Girl,-117
+Boy,-116
+Pregnant woman,-115
+Male doctor,-107
+Female doctor,-106
+Female athlete,-104
+Female executive,-103
+Male athlete,-102
+Male executive,-101
+Fat woman,-99
+Fat man,-98
+Homeless person,-97
+Old man,-96
+Old woman,-95
+Dog,-88
+Criminal,-87
+Cat,-84
